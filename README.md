@@ -1,4 +1,5 @@
 
+
 # Password Strength Checker
 
 ## About the Project
@@ -36,3 +37,6 @@ security concepts.
 
 ## Author
 Dhriti Bhatt
+# password-strength-checker
+A beginner Python cybersecurity project to evaluate password strength.
+
